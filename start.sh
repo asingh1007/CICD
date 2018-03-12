@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo service httpd start
-sudo chkconfig httpd on
+sudo service tomcat7 start
+sudo chkconfig tomcat7 on
