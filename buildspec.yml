@@ -16,5 +16,5 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - target/CustomerOnBoard-Raghib.war
+    - target/CustomerOnBoard-Raghib-0.0.1.war
   discard-paths: yes
