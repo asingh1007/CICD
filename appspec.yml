@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /
+  - source: /CustomerOnBoard-Raghib-0.0.1
     destination: /usr/share/tomcat7/webapps
 hooks:
   BeforeInstall:
