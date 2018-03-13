@@ -7,7 +7,6 @@
   <name>CustomerOnBoard-Raghib</name>
   <description>Application for customer onboarding</description>
   <build>
-    <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
         <artifactId>maven-war-plugin</artifactId>
